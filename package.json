@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<твій-юзернейм>.github.io/vite-react-project",
+  "homepage": "https://APilganchuk.github.io/vite-react-project",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
